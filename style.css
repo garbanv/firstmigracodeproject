@@ -1,0 +1,143 @@
+body {
+    margin:0;
+    padding:0;
+    background-color:white;
+    font-family: 'Montserrat', sans-serif;
+  }
+  
+  header{
+    padding:0;
+    width:800px;
+    height:50px;
+    margin:20px auto 20px auto;
+  
+    color:#666;
+  }
+  
+  header div {
+    float:left;
+  }
+  
+  #logo {
+    
+    margin-right:340px;
+  }
+  
+  header li {
+    list-style:none;
+    float:left;
+    margin-right:10px;
+    margin-top:5px;
+  }
+  
+  #section1 {
+    background-color:#f9f9f9;
+    padding:30px 0;
+    height:450px;
+  }
+  .mainContainer {
+    text-align:center;
+  
+  }
+  
+  #section3 {
+    height:670px;
+    background-color:#f3f3f3;
+  }
+  
+  #container {
+   width:800px;
+   margin:0 auto;
+    height:280px;
+   padding:20px;
+  
+    
+  }
+  .about img {
+    max-width:100%;
+  }
+  .about h3 {
+    font-size:30px;
+    
+  }
+  
+  .leftCol {
+    width:400px;
+    height:400px;
+    float:left;
+  }
+  
+  .leftCol h3 {
+    font-size:40px;
+    margin:150px 0 0 0 ;
+  }
+  
+  .leftCol h2 {
+    font-size:60px;
+    margin:0;
+  }
+  
+  .leftCol span {
+    color:lightblue;
+    font-size:30px;
+    font-weight:700;
+    color:#51b5ca;
+  }
+  
+  .rightCol {
+    width:400px;
+    height:400px;
+  
+    float:left;
+  }
+  
+  .rightCol img {
+    max-width:400px;
+  }
+  
+  #container .why {
+    float:left;
+    width:266px;
+    text-align:center;
+    font-weight:700;
+  
+  }
+  
+  #container iframe {
+    max-width:100%;
+  }
+  
+  .developer {
+    text-align:center;
+    margin-bottom:800px;
+  
+  }
+  
+  .developer h3 {
+    font-size:30px;
+    margin-bottom:90px;
+  }
+  .video {
+    text-align:center;
+  }
+  .why img{
+    max-width:100%;
+    max-height:300px;
+  }
+  
+  #section4 {
+    height:500px;
+  }
+  
+  footer {
+  background-color:black;
+  
+    color:white;
+    text-align:center;
+    margin:0 auto;
+  }
+  
+  .footer {
+    width:800px;
+    margin:0 auto;
+  }
